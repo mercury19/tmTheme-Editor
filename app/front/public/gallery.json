@@ -48,7 +48,7 @@
 {"name":"Baby, The Code Shines Bright","url":"https://raw.githubusercontent.com/spacekat/Baby-The-Code-Shines-Bright/master/Baby,%20The%20Code%20Shines%20Bright.tmTheme","light":false},
 {"name":"Barcelona (dark)","url":"https://raw.githubusercontent.com/idleberg/Subway.tmTheme/master/_dark/Barcelona%20(dark).tmTheme","light":false},
 {"name":"Barcelona","url":"https://raw.githubusercontent.com/idleberg/Subway.tmTheme/master/Barcelona.tmTheme","light":true},
-{"name":"Base16 3024 Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-3024.dark.tmTheme","light":false},
+{"name":"Base16 3024 Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/blob/master/Themes/base16-3024.dark.tmTheme","light":false},
 {"name":"Base16 3024 Light","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-3024.light.tmTheme","light":true},
 {"name":"Base16 Apathy Dark","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-apathy.dark.tmTheme","light":false},
 {"name":"Base16 Apathy Light","url":"https://raw.githubusercontent.com/chriskempson/base16-textmate/master/themes/base16-apathy.light.tmTheme","light":true},
